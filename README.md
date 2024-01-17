@@ -30,7 +30,9 @@ Activate the virtual environment:
     ```
 
 - Linux / Mac OS:
-    `source ./.venv/bin/activate`
+    ```bash
+    source ./.venv/bin/activate
+    ```
 
 
 ## Usage
