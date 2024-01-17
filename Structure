@@ -1,0 +1,18 @@
+snagframes/
+|-- snagframes/
+|   |-- __init__.py
+|   |-- video_processor.py
+|   |-- frame_extractor.py
+|   |-- file_manager.py
+|-- tests/
+|   |-- __init__.py
+|   |-- test_video_processor.py
+|   |-- test_frame_extractor.py
+|   |-- test_file_manager.py
+|-- .gitignore
+|-- requirements.txt
+|-- setup.py
+|-- Dockerfile
+|-- build_script.py
+|-- setup_script.py
+|-- README.md

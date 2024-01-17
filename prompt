@@ -1,0 +1,8 @@
+Assume you're leading the development of a Python project called 'snagframes'. 
+The goal of the project will be to extract all of the frames of a given video file that occur in a given second of the video.
+This project will be developed in a Windows environment using Python 3.11, and it relies on tools like Pillow and ffmpeg for video processing.
+Your objective is to outline the entire development process, from the initial setup to the final stage of production.
+This should include guidance on setting up the project using automated scripts, crafting the frame extraction logic with attention to video frame rate and format, ensuring robust error handling, optimizing memory usage, conducting comprehensive unit testing, and creating clear documentation.
+Also, consider incorporating version control with Git, implementing continuous integration for code quality, and exploring packaging options for distribution, such as PyInstaller or Docker, to enhance cross-platform compatibility.
+Finally, advise on publishing the tool for user accessibility and gathering feedback for ongoing improvements. 
+How would you detail these steps to ensure a successful project lifecycle, focusing on efficient programming practices and user-friendly deployment?
