@@ -1,4 +1,5 @@
 # SnagFrames
+![snagframes_social](https://github.com/DJStompZone/snagframes/assets/85457381/5c41c4e2-62c8-4875-b98e-6eb519c3cccd)
 
 SnagFrames is a Python tool for extracting frames from a video file at a specific second.
 
